@@ -1,0 +1,3 @@
+[submodule "Data-Scraping"]
+	path = Data-Scraping
+	url = https://github.com/tosif7727/Data-Scraping.git
